@@ -1,0 +1,15 @@
+Vacuum Cleaner agent.
+
+Execute the code in Python using Python3 main.Python
+
+Once the code is executed you will have the option to choose the enviornment
+1. No wall
+2. With walls 
+
+After this selection you can select which model to implement:
+1.Simple Reflex
+2.Random Simple 
+3. Memory based model
+4. Random Simple modified
+
+Once you make selection graphs will be generated according to the selection.
